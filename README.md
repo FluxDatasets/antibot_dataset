@@ -6,7 +6,7 @@ https://github.com/Full-University-Projects/OCR_Captcha_Dataset
 
 
 ## Note
-These files when this dataset was small about 282 folder and 1134 files (or 1134 row in SQL)
+These files when this dataset was small about 282 folder and 1134 files (or 1134 row in SQL), ``` This  Dataset Updated to be 5000 ```
 ```
 antibot.zip
 
